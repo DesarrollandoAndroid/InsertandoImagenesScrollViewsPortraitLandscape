@@ -9,8 +9,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="desarrollandoandroid.insertandoimagenesscrollviewsportraitlandscape.MainActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="landscape" >
+            android:label="@string/app_name" >
+          <!--  android:screenOrientation="landscape" -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
